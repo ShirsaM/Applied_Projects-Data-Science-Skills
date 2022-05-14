@@ -18,6 +18,10 @@ Data Science methodologies-
 
 Below are the Projects to view:-
 
-(1)  COVID19 Data Analysis - 
+(1)  COVID19 Data Analysis 
 
-(2)  EDA of Amazon Prime Contents - 
+(2)  ML Hackathon - Demand Forecasting
+
+(3)  EDA of Amazon Prime Movies and Shows
+
+(4)  Predictive Analysis on IRIS dataset
